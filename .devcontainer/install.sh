@@ -21,6 +21,6 @@ fi
 
 # Load the updated ~/.bashrc to apply the changes immediately
 source ~/.bashrc
-pipenv install grpcio-tools
+pipenv install Pipfile
 
 pipenv shell
